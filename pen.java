@@ -6,5 +6,4 @@ public class pen {
         System.out.printf("The Pen Per Student is %d and the remaining pen not distributed is %d\n\n",
                           pensPerStudent, remainingPens);
     }
-    
 }

@@ -33,3 +33,6 @@ Day 16 (06-02-25): Spent the day reviewing and revising all study material from 
 Day 17 (07-02-25): Learned about inheritance in Java,  single-level, multilevel, and hierarchical inheritance. I also practiced method overriding, constructor inheritance, and polymorphism to understand code reusability and access control better.
 
 Day 18 (10-02-25): Learned about Submission of Encapsulation in Java, Polymorphism and Interface. I also practiced Abstract Class and use it in coding problems.
+
+Day 19 - (Dated :- 12-02-25) :- I studied and completed assignments on the following topics: Single Linked List, Double Linked List, and Circular Linked List. These covered their structures, operations, and applications.
+Day 20 - (Dated :- 13-02-25) :- Today, I studied Stack, Queue, and HashMap along with Hashing Functions and completed the assignment based on these topics.

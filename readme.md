@@ -35,4 +35,7 @@ Day 17 (07-02-25): Learned about inheritance in Java,  single-level, multilevel,
 Day 18 (10-02-25): Learned about Submission of Encapsulation in Java, Polymorphism and Interface. I also practiced Abstract Class and use it in coding problems.
 
 Day 19 - (Dated :- 12-02-25) :- I studied and completed assignments on the following topics: Single Linked List, Double Linked List, and Circular Linked List. These covered their structures, operations, and applications.
+
 Day 20 - (Dated :- 13-02-25) :- Today, I studied Stack, Queue, and HashMap along with Hashing Functions and completed the assignment based on these topics.
+
+Day 21 - (Dated :- 14-02-25) :- I studied various sorting algorithms, including Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort, and applied our understanding by solving related assignments.

@@ -1,7 +1,7 @@
 import java.io.*;
 public class FileReading {
     public static void main(String[] args) {
-        String filePath = "riya.txt";
+        String filePath = "anurag.txt";
 
         // Measure time for FileReader
         long startTime = System.nanoTime();

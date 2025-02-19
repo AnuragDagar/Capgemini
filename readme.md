@@ -39,3 +39,9 @@ Day 19 - (Dated :- 12-02-25) :- I studied and completed assignments on the follo
 Day 20 - (Dated :- 13-02-25) :- Today, I studied Stack, Queue, and HashMap along with Hashing Functions and completed the assignment based on these topics.
 
 Day 21 - (Dated :- 14-02-25) :- I studied various sorting algorithms, including Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort, and applied our understanding by solving related assignments.
+
+Day 22 - (Dated :- 15-02-25) :- I studied  StringBuilder and StringBuffer for efficient string manipulation, and FileReader and InputStreamReader for handling file input operations. I also  studied searching techniques such as Linear Search and Binary Search. I applied these concepts in assignments .
+
+Day 23 - (Dated :- 17-02-25) :- I studied runtime analysis and its importance in evaluating program efficiency. Also explored Big-O notation to classify algorithm performance and analyzed  time and space complexity. I also studied best, worst, and average case complexities .Applied practical guidelines to optimize Java code and solved related problems in the assignment.
+
+Day 24 - (Dated :- 18-02-25) :- I studied Generics in Java, covering Type Parameters for flexibility, Generic Classes and Methods for reusability, Bounded Type Parameters for restricted types, and Wildcards for handling unknown types.

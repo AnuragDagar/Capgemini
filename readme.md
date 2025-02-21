@@ -45,3 +45,9 @@ Day 22 - (Dated :- 15-02-25) :- I studied  StringBuilder and StringBuffer for ef
 Day 23 - (Dated :- 17-02-25) :- I studied runtime analysis and its importance in evaluating program efficiency. Also explored Big-O notation to classify algorithm performance and analyzed  time and space complexity. I also studied best, worst, and average case complexities .Applied practical guidelines to optimize Java code and solved related problems in the assignment.
 
 Day 24 - (Dated :- 18-02-25) :- I studied Generics in Java, covering Type Parameters for flexibility, Generic Classes and Methods for reusability, Bounded Type Parameters for restricted types, and Wildcards for handling unknown types.
+
+Day 26 - (Dated :- 19-02-25) :- I studied the Java Collections Framework, covering its hierarchy, key interfaces (List, Set, Queue, Deque, Map), implementations, comparisons, and best practices. I explored real-world use cases and reinforced my understanding by solving related questions.
+
+Day 27 - (Dated :- 20-02-25) :- Today, I reviewed Week 3 and revised all topics related to OOP concepts and linked lists.
+
+Day 28 - (Dated :- 21-02-25) :- Java I/O Streams facilitate data transfer via File, Object, ByteArray, Buffered, and Reader/Writer Streams. Key practices include using try-with-resources, optimizing buffering, and closing streams properly. Mastery comes through study and problem-solving.
